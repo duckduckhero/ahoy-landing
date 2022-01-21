@@ -3,6 +3,7 @@ import Template from './Template';
 import NavBar from './Navbar';
 import gif from '../bill-gates-linkedin.gif';
 
+
 const Main = () => {
     return(
         <Template>
