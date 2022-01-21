@@ -22,7 +22,8 @@
 }
 
 .Intro-gif {
-  width: 56%;
+  width: 100%;
+  max-width: 720px;
 }
 
 .Main-description {
