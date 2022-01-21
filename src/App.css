@@ -1,10 +1,36 @@
 .App {
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+}
+
+.Banner-logo {
+  height: 14vmin;
+}
+
+.Nav-link {
+  text-decoration: none;
+  color: rgb(35, 185, 245);
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+.Intro-gif {
+  height: 550px;
+}
+
+.Main-description {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Sub-description {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 @media (prefers-reduced-motion: no-preference) {
