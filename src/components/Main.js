@@ -17,6 +17,8 @@ const Main = () => {
                 <br />
                 <br />
                 Now availble on the <a href="https://chrome.google.com/webstore/detail/ahoy/ahepineneaniaknbpemfghfamobkhpkn?hl=en&authuser=0">Chrome Web Store.</a> 
+                <br />
+                Also, you can explore our <a href="https://discord.gg/eVyZ4gwU">Discord Server.</a>
             </div>
             <br />
             <br />
